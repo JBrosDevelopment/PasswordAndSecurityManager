@@ -1,7 +1,10 @@
 # PasswordAndSecurityManager
 [NOT SOURCE CODE]
+
 Password And Security Manager
+
 What's New
+
 Connected accounts with JBros Development: You can now sign in to Password And Security Manager using your JBros Development account. This makes it easier to manage all your accounts and passwords in one place.
 New skins: We've added new some colors to Password And Security Manager. So be on the look out for any color changes.
 Updated password generator: Our password generator has been updated to create even stronger and more secure passwords. It uses a combination of letters, numbers, and symbols to generate unique passwords.
